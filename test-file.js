@@ -1,9 +1,7 @@
 import React from 'react';
 
-function TestFile(props) {
+export default function TestFile(props) {
     return (
         <div></div>
     );
 }
-
-export default TestFile;
